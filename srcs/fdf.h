@@ -6,7 +6,7 @@
 /*   By: doriol <marvin@42.fr>                      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/05/03 19:07:32 by doriol            #+#    #+#             */
-/*   Updated: 2017/05/11 05:59:52 by doriol           ###   ########.fr       */
+/*   Updated: 2017/05/11 06:08:46 by doriol           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,6 @@
 # define FDF_H
 
 # include "libft.h"
-# include <stdio.h>
 # include "get_next_line.h"
 # include "mlx.h"
 # include <stdlib.h>
